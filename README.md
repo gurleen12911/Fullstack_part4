@@ -1,2 +1,3 @@
 # Fullstack_part4
-Exercises 4.1 - 4.7
+Full Stack Open 
+Part 4 (a,b,c,d)
